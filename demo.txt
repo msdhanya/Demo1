@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Enter a message
-=======
 Hello world 
->>>>>>> develop
+Enter a message
